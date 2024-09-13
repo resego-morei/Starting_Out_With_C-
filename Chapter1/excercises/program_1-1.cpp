@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    unsign short int numbers;
+    unsigned short int numbers;
     
     cout << "Success\n";
     cout << "Success";
