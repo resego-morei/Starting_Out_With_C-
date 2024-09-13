@@ -33,23 +33,62 @@ This repository is designed to assist anyone who is starting their programming j
 - Pointers and dynamic memory management
 - Classes and object-oriented programming
 
+## Prerequisites
+
+To run C++ programs on Windows Subsystem for Linux (WSL), ensure you have the following installed:
+
+1. **Windows Subsystem for Linux (WSL)**:
+   - Follow the [Microsoft guide](https://docs.microsoft.com/en-us/windows/wsl/install) to install WSL.
+   - Choose a preferred Linux distribution from the Microsoft Store (e.g., Ubuntu).
+
+2. **C++ Compiler**:
+   - Once WSL is set up, install a C++ compiler by running:
+     ```bash
+     sudo apt update
+     sudo apt install g++
+     ```
+   - Verify the installation by checking the version:
+     ```bash
+     g++ --version
+     ```
+
+3. **Code Editor**:
+   - You can use any code editor or IDE that supports WSL, such as Visual Studio Code, which has built-in support for WSL.
+
+
 ## Getting Started
 
 To get started with the code examples and exercises in this repository:
 
 1. **Clone the Repository**: 
    ```
-   git clone https://github.com/resego-morei
+   https://github.com/resego-morei/Starting_Out_With_C-.git
    ```
 2. **Navigate to the Project Directory**:
    ```
-   cd COS132-Cpp
+   cd Starting_Out_With_C-
    ```
-3. **Compile and Run Examples**:
-   Compile using a C++ compiler (e.g., g++, clang++).
+3. **makefile**:
+   Here is a simple makefile structure of how I used to run my code. filename is the file name of the file you are compiling.
    ```
-   g++ -o example Chapter1/example.cpp
-   ./example
+   filename:	filename.o
+	g++ -o filename filename.o
+
+   filename.o:	filename.cpp
+   	g++ -c filename.cpp
+   	
+   run:
+   	./filename
+   	
+   clean:
+   	rm* .o filename	
+	
+   ```
+4. **Compile and Run**:
+   On the terminal of the IDE of your choice, type the following commands to make and make run you code in c++
+   ```
+   make
+   make run
    ```
    
 ## Structure
@@ -57,7 +96,7 @@ To get started with the code examples and exercises in this repository:
 The repository is organized by chapters from the textbook:
 
 ```
-COS132-C++/
+Starting_Out_With_C-/
 │
 ├── Chapter1/           
 │   ├── examples/
