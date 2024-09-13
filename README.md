@@ -101,7 +101,6 @@ Starting_Out_With_C-/
 ├── Chapter1/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter2/          
 │   ├── examples/
@@ -110,7 +109,6 @@ Starting_Out_With_C-/
 ├── Chapter3/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter4/          
 │   ├── examples/
@@ -119,7 +117,6 @@ Starting_Out_With_C-/
 ├── Chapter5/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter6/          
 │   ├── examples/
@@ -128,7 +125,6 @@ Starting_Out_With_C-/
 ├── Chapter7/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter8/          
 │   ├── examples/
@@ -137,7 +133,6 @@ Starting_Out_With_C-/
 ├── Chapter9/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter10/          
 │   ├── examples/
@@ -146,15 +141,14 @@ Starting_Out_With_C-/
 ├── Chapter11/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter12/          
 │   ├── examples/
 │   └── exercises/│
+|
 ├── Chapter13/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter14/          
 │   ├── examples/
@@ -163,7 +157,6 @@ Starting_Out_With_C-/
 ├── Chapter15/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter16/          
 │   ├── examples/
@@ -172,7 +165,6 @@ Starting_Out_With_C-/
 ├── Chapter17/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 ├── Chapter18/          
 |   ├── examples/
@@ -181,7 +173,6 @@ Starting_Out_With_C-/
 ├── Chapter19/           
 │   ├── examples/
 │   └── exercises/
-|   └── practical1/
 │
 └──  Chapter20/          
     ├── examples/
