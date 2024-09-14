@@ -130,51 +130,7 @@ Starting_Out_With_C-/
 │   ├── examples/
 │   └── exercises/
 │
-├── Chapter9/           
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter10/          
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter11/           
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter12/          
-│   ├── examples/
-│   └── exercises/│
-|
-├── Chapter13/           
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter14/          
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter15/           
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter16/          
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter17/           
-│   ├── examples/
-│   └── exercises/
-│
-├── Chapter18/          
-|   ├── examples/
-|   └── exercises/
-│
-├── Chapter19/           
-│   ├── examples/
-│   └── exercises/
-│
-└──  Chapter20/          
+└──  Chapter9/          
     ├── examples/
     └── exercises/
 
